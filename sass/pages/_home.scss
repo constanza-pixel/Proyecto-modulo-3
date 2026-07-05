@@ -1,0 +1,39 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: rem(60);
+}
+
+.home__features {
+  padding: rem(80) rem(20);
+  background-color: $color-light;
+}
+
+.home__features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: rem(20);
+}
+
+.home__feature-card {
+  background: $color-white;
+  border-radius: $radius;
+  padding: rem(20);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  text-align: center;
+  transition: 0.3s ease;
+
+  &:hover {
+    transform: translateY(-5px);
+  }
+}
+
+.home__contact {
+  padding: rem(80) rem(20);
+  background-color: $color-light;
+}
+
+.home__contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+}

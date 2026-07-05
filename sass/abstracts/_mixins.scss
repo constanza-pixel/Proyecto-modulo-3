@@ -1,0 +1,16 @@
+@mixin flex-center{
+
+display:flex;
+justify-content:center;
+align-items:center;
+
+}
+
+@mixin button{
+
+padding:12px 25px;
+border:none;
+border-radius:8px;
+cursor:pointer;
+
+}
