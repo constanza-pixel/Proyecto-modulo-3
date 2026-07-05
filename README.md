@@ -111,10 +111,3 @@ sass --watch sass/main.scss assets/css/style.css
 ## Autor
 
 **Constanza Yañez**
-
-Proyecto desarrollado como práctica de Front-End utilizando HTML, SASS, Bootstrap y JavaScript.
-
----
-
-## 📄 Licencia
-Este proyecto fue desarrollado con fines educativos.
