@@ -73,6 +73,10 @@ Durante el desarrollo de este proyecto se aplicaron conocimientos de:
 - Validación básica de formularios con JavaScript.
 - Uso de Git y GitHub para el control de versiones.
 
+## Vista previa
+
+![SmartBudget](assets/img/Captura%20de%20pantalla.png)
+
 ## Justificación 
 
 En el desarrollo del proyecto Budget se adoptaron decisiones técnicas orientadas a garantizar orden, escalabilidad y consistencia visual. Estas se fundamentan en tres pilares: metodología de estilos, diseño de layout y uso de framework.
